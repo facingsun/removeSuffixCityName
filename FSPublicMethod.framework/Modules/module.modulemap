@@ -1,0 +1,6 @@
+framework module FSPublicMethod {
+  umbrella header "FSPublicMethod.h"
+
+  export *
+  module * { export * }
+}
